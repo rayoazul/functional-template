@@ -4,4 +4,4 @@
 java.lang.String "Soy un String"
 clojure.lang.PersistentVector "Soy un Vector"
 java.lang.Long "Soy un default"
-clojure.lang.PersistentArrayMap "Soy un Map"))
+clojure.lang.PersistentArrayMap "Soy un Map")) 

@@ -1,6 +1,6 @@
 (ns exercise8-test
   (:require [clojure.test :refer :all]
-            [exercise8 :refer :all]))
+            [exercise8 :refer :all])) 
                 
 (defn squear 
   "Returns the squear of a given number"

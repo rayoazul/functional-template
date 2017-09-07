@@ -4,7 +4,7 @@
 
 (deftest things-for-string
   (testing "Returns the string legend."
-   (is (= (things "string") "Soy un String"))))
+   (is (= (things "string") "Soy un String")))) 
 
 (deftest things-for-vector
   (testing "Returns the vector legend."

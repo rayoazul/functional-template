@@ -8,7 +8,7 @@
    
 (deftest fmap-vector
   (testing "Maps values in a vector."
-   (is (= (fmap inc [1 2 3 4]) [2 3 4 5]))))
+   (is (= (fmap inc [1 2 3 4]) [2 3 4 5])))) 
 			    
 (deftest fmap-map
   (testing "Maps values in a map."
